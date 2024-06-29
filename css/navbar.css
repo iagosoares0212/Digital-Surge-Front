@@ -1,0 +1,48 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Para garantir que o header fique acima de outros elementos */
+}
+
+nav {
+    background: #333333;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px 160px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra para diferenciar a navbar do conteúdo */
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+@media (max-width: 360px) {
+    nav {
+        padding: 10px 30px;
+        gap: 60px;
+        justify-content: flex-start;
+    }
+
+    nav ul {
+        gap: 10px;
+    }
+
+    nav ul li a {
+        font-size: 12px;
+    }
+
+    nav a img {
+        width: 55.68px;
+        height: 24px;
+        margin: 22px 0;
+    }
+}

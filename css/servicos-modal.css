@@ -1,0 +1,47 @@
+/* Estilos para o modal */
+.modal {
+    display: none; /* Escondido por padrão */
+    position: fixed; /* Fixo na tela */
+    z-index: 1; /* Ficar na frente */
+    left: 0;
+    top: 0;
+    width: 100%; /* Largura total */
+    height: 100%; /* Altura total */
+    overflow: auto; /* Habilitar rolagem se necessário */
+    background-color: rgb(0,0,0); /* Fallback */
+    background-color: rgba(0,0,0,0.4); /* Fundo com opacidade */
+}
+
+/* Estilo do conteúdo do modal */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% do topo e centralizado */
+    padding: 70px;
+    border: 1px solid #888;
+    max-width: 1280px; /* Largura máxima */
+    position: relative; /* Adicione esta linha */
+}
+
+/* Estilo do botão de fechar */
+.close {
+    color: #FF5733;
+    float: right;
+    font-size: 28px;
+    font-weight:500; /* Alterar para 'normal' ou um valor mais baixo */
+    position: absolute; /* Posição absoluta */
+    top: 40px; /* Ajuste a distância do topo conforme necessário */
+    right: 40px; /* Ajuste a distância da direita conforme necessário */
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-content p{
+    margin-bottom: 40px;
+}
+
+/* criar pseudoelement abaixo do forms */
