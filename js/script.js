@@ -3,3 +3,5 @@ import iniciarCarrossel from "./carrossel-servicos.js"
 
 iniciarCarrossel();
 // iniciarModal();
+
+const linksInternos = document.querySelectorAll('nav ul a[href^="#"]');
