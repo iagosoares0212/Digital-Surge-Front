@@ -200,7 +200,7 @@ form textarea {
 
     .contaier-parte1 {
         margin-top: 10px;
-        width: 100%;
+        width: 360px;
         padding: 20px 25px;
     }
 
@@ -224,7 +224,7 @@ form textarea {
     }
 
     .contaier-parte2 {
-        width: auto;
+        width: 360px;
         padding: 20px;
         margin: 0;
     }
@@ -241,7 +241,11 @@ form textarea {
 
     form input {
         height: 24px;
-        width: auto;
+        width: 148px;
+    }
+
+    .input-padrao {
+        width: 288px;
     }
 
     .enviar {
