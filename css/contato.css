@@ -208,8 +208,9 @@ form textarea {
 
     .contaier-parte1 {
         margin-top: 10px;
-        width: 360px;
+        width: 312px;
         padding: 20px 25px;
+        align-self: center;
     }
 
     .contaier-parte1 h3{
@@ -244,11 +245,11 @@ form textarea {
     }
 
     .contaier-parte2 {
-        width: 360px;
-        padding: 20px;
-        margin: 0;
+         /* top right bottom left; */
+        width: 312px; 
+        padding: 10px 40px 10px 30px;
+        margin-top: 0px;
     }
-
 
     form label {
         font-size: 10px;
@@ -261,7 +262,7 @@ form textarea {
     }
 
     .input-padrao {
-        width: 288px;
+        width: 250px;
     }
 
     .enviar {
@@ -283,8 +284,8 @@ form textarea {
     .onde-nos-encontrar {
         margin-top: 26px;
     }
-
-    .contaier-parte2 h4::before {
+    
+    .onde-nos-encontrar::before {
         display: none;
     }
 
