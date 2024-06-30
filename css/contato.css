@@ -86,7 +86,7 @@ iframe {
     letter-spacing: 0.015em;
     color: #333333;
     position: relative;
-    margin-bottom: 64px;
+    margin-bottom: 32px;
 }
 
 .contaier-parte2 h4::before {
@@ -130,6 +130,7 @@ form label {
 }
 
 form input {
+    padding: 20px;
     width: 335px;
     height: 48px;
     border: none;
@@ -146,6 +147,7 @@ form input {
 }
 
 form textarea {
+    padding: 20px;
     border: none;
     border-radius: 5px;
     outline: none;
@@ -181,6 +183,7 @@ form textarea {
 }
 
 .enviar {
+    padding-bottom: 40px;
     margin-top: 20px;
     background: #FF5733;
     font-family: Lato;
@@ -259,11 +262,13 @@ form textarea {
     form input {
         height: 24px;
         width: 148px;
+       
     }
 
     .input-padrao {
         width: 250px;
     }
+
 
     .enviar {
         /* margin: top right bottom left; */
