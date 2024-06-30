@@ -9,7 +9,7 @@
 .banner h1 {
     /* ajeitar disposição do conteúdo do texto */
     color: #F2F2F2;
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 700;
     line-height: 80px;
 }
@@ -30,7 +30,7 @@
     }
 
     .banner h1 {
-        font-size: 50px;
+        font-size: 3.125rem;
     }
     
 }
@@ -48,7 +48,7 @@
     }
 
     .banner h1 {
-        font-size: 20px;
+        font-size: 1,625rem;
         line-height: 32px;
         padding: 20px;
     }

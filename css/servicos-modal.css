@@ -26,7 +26,7 @@
 .close {
     color: #FF5733;
     float: right;
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight:500; /* Alterar para 'normal' ou um valor mais baixo */
     position: absolute; /* Posição absoluta */
     top: 40px; /* Ajuste a distância do topo conforme necessário */

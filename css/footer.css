@@ -11,7 +11,7 @@ footer {
 
 .texto-copyright {
   font-family: Lato;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 32px;
   color: #C4C4C4;
@@ -26,7 +26,7 @@ footer {
 
 footer h2 {
   font-family: Lato;
-  font-size: 24px;
+  font-size: 1.5;
   font-weight: 600;
   line-height: 32px;
   letter-spacing: 0.015em;
@@ -36,7 +36,7 @@ footer h2 {
 
 .footer-parte1 p {
   font-family: Lato;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 400;
   line-height: 32px;
   color: #C4C4C4;
@@ -44,7 +44,7 @@ footer h2 {
 
 .footer-parte2 p {
   font-family: Lato;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 600;
   line-height: 32px;
   color: #C4C4C4;
@@ -88,13 +88,12 @@ footer h2 {
 .social-icon {
   text-decoration: none;
   color: #C4C4C4;
-  font-size: 32px;
+  font-size: 2rem;
   transition: color 0.3s;
 }
 
 .social-icon i {
-  font-size: 32px;
-  /* Garante que o tamanho dos ícones seja 32x32 pixels */
+  font-size: 2rem;
 }
 
 .social-icon:hover {
@@ -139,7 +138,7 @@ footer h2 {
   }
 
   .footer-parte1 p {
-    font-size: 8px;
+    font-size: 0.5rem;
   }
 
   .texto-copyright {
@@ -153,15 +152,15 @@ footer h2 {
   .footer-parte2-bloco1 a{
     text-decoration: none;
     color: #C4C4C4;
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
   .footer-parte2-bloco1 p {
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
   .footer-parte2-bloco2 p {
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
   .footer-parte2-bloco2 {
@@ -183,7 +182,7 @@ footer h2 {
     text-transform: uppercase;
     text-decoration: none;
     color: #C4C4C4;
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
 }

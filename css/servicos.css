@@ -5,7 +5,7 @@
 }
 
 .servicos h2 {
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 52px;
     color: #FFFFFF;
@@ -21,7 +21,7 @@
 
 .textos-servicos p {
     font-family: Lato;
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 500;
     line-height: 24px;
     color: #FFFFFF;
@@ -48,7 +48,7 @@
     left: 50%; 
     transform: translateX(-50%); 
     font-family: Poppins;
-    font-size: 32px;
+    font-size: 2rem;
     line-height: 40px;
     color:#F2F2F2;
     border-radius: 5px; 
@@ -85,7 +85,7 @@
     }
 
     .servicos h2 {
-        font-size: 20px;
+        font-size: 1.25rem;
         line-height: 32px;
         margin-bottom: 10px;
     }
@@ -95,7 +95,7 @@
     }
     
     .textos-servicos p {
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 20px;
     }
 }

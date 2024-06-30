@@ -3,7 +3,7 @@
 }
 
 .Sobre h1{
-    font-size: 48px;
+    font-size: 3rem;
     line-height: 52px;
     margin-bottom: 32px;
     font-weight: 700;
@@ -11,7 +11,7 @@
 }
 
 .descricao-sobre {
-    font-size: 18px;
+    font-size: 1.125rem;
     line-height: 24px;
     font-weight: 500;
     margin-bottom: 32px;
@@ -19,7 +19,7 @@
 }
 
 .nossa-equipe h2{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 32px;
     margin-bottom: 20px;
@@ -58,7 +58,7 @@
  }
 
 .top-card2 h3 {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.015em;
@@ -68,7 +68,7 @@
 
 .top-card2 p {
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 600;
     line-height: 16px; 
     color:#C4C4C4;
@@ -115,7 +115,7 @@
 }
 
 .subtitulo-sobre {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 32px;
     letter-spacing: 0.015em;
@@ -162,7 +162,7 @@
     }
 
     .Sobre h1{
-        font-size: 20px;
+        font-size: 1.25rem;
         line-height: 32px;
         font-weight: 700;
         color: #333333;
@@ -170,14 +170,14 @@
     }
 
     .descricao-sobre {
-        font-size: 14px;
+        font-size: 0.875rem;
         font-weight: 500;
         line-height: 20px;
         margin-bottom: 10px;
     }
 
     .nossa-equipe h2 {
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 20px;
         margin-bottom: 10px;
     }
@@ -196,12 +196,12 @@
     }
 
     .top-card2 h3 {
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 14px;
     }
 
     .top-card2 p {
-        font-size: 10px;
+        font-size: 0.625rem;
         line-height: 16px;
     }
 
@@ -211,7 +211,7 @@
     }
     
     .descricao-card {
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 24px;
         padding: 0px;
     }
@@ -221,14 +221,14 @@
     }
 
     .historia-empresa p {
-        font-size: 14px; 
+        font-size: 0.875rem; 
         line-height: 20px;
     }
 
     .paragrafo-sobre {
         /* top right bottom left; */
         margin-top: 10px;
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 20px;
         padding: 13px 30px 13px 39px;
     }
@@ -238,7 +238,7 @@
     }
 
     .subtitulo-sobre {
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 20px;
         margin: 0px;
     }

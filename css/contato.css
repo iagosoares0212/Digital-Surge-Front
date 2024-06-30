@@ -8,7 +8,7 @@
 
 .contato h2 {
     align-self:self-start;
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 52px;
     color: #333333;
@@ -28,7 +28,7 @@
 
 .contaier-parte1 h3 {
     font-family: Lato;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 32px;
     letter-spacing: 0.015em;
@@ -37,7 +37,7 @@
 
 .descricao-container-parte1{
     font-family: Lato;
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 500;
     line-height: 32px;
     color: #C4C4C4;
@@ -47,7 +47,7 @@
 
 .contaier-parte1 h4 {
     font-family: Lato;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.015em;
@@ -63,7 +63,7 @@
 }
 
 .container-endereco p {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 500;
     line-height: 24px;
     color: #B3B3B3;
@@ -80,7 +80,7 @@ iframe {
 }
 
 .contaier-parte2 h4 {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.015em;
@@ -121,7 +121,7 @@ iframe {
 }
 
 form label {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.015em;
@@ -175,7 +175,7 @@ form textarea {
 }
 
 .checkbox label {
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.015em;
@@ -187,7 +187,7 @@ form textarea {
     margin-top: 20px;
     background: #FF5733;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 24px;
     cursor: pointer;
@@ -200,7 +200,7 @@ form textarea {
     }
 
     .contato h2 {
-        font-size: 20px;
+        font-size: 1.25rem;
         line-height: 32px;
         width: 100%;
     }
@@ -217,7 +217,7 @@ form textarea {
     }
 
     .contaier-parte1 h3{
-        font-size: 14px;
+        font-size: 0.875rem;
         line-height: 20px;
     }
 
@@ -235,7 +235,7 @@ form textarea {
 
     .descricao-container-parte1 {
         margin: 10px 0;
-        font-size: 14px;
+        font-size: 0.875rem;
     }
 
     .mapa-container-parte1 {
@@ -255,7 +255,7 @@ form textarea {
     }
 
     form label {
-        font-size: 10px;
+        font-size: 0.625rem;
         line-height: 16px;
     }
 
@@ -274,7 +274,7 @@ form textarea {
         /* margin: top right bottom left; */
         margin-top: 10px;
         padding: 5px 10px 30px 10px ;
-        font-size: 12px;
+        font-size: 0.75rem;
     }
 
     .resp-mapa {
@@ -282,7 +282,7 @@ form textarea {
     }
     
     .contaier-parte2 h4 {
-        font-size: 12px;
+        font-size: 10.75rem;
         margin-bottom: 15px;
     }
 
@@ -295,7 +295,7 @@ form textarea {
     }
 
     .container-endereco p {
-        font-size: 10px;
+        font-size: 0.625rem;
         line-height: 14px;
         color: #666666;
     }
