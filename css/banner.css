@@ -19,21 +19,6 @@
     border-bottom: 4px solid #FF5733; 
 }
 
-@media  (max-width: 1595px) {
-
-    .banner {
-        gap: 50px;
-    }
-
-    .banner img {
-        width: 100%;
-    }
-
-    .banner h1 {
-        font-size: 3.125rem;
-    }
-    
-}
 
 @media (max-width: 360px) {
 
@@ -50,7 +35,7 @@
     .banner h1 {
         font-size: 1.625rem;
         line-height: 32px;
-        padding: 20px;
+        padding: 20px 0px;
     }
 
     .banner img {
