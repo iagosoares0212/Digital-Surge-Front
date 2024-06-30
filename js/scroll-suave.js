@@ -10,7 +10,8 @@ export default function initScrollSuave() {
                 const targetElement = document.querySelector(targetId);
 
                 // Calcula a posição do elemento alvo levando em conta a margem do documento
-                const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+                const offset = 90; // Ajuste o valor conforme necessário
+                const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
 
                 window.scrollTo({
                     top: targetPosition,
@@ -19,5 +20,5 @@ export default function initScrollSuave() {
             });
         });
     });
-    
+
 }
