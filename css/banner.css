@@ -22,8 +22,6 @@
 
 @media (max-width: 360px) {
 
-    /* ajeitar dimensão da imagem para se adaptar ao tamanho da tela */
-
     .banner {
         flex-direction: column;
         gap: 0;
