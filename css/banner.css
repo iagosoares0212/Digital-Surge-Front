@@ -26,7 +26,7 @@
     }
 
     .banner img {
-        width: 500px;
+        width: 100%;
     }
 
     .banner h1 {
@@ -48,13 +48,13 @@
     }
 
     .banner h1 {
-        font-size: 1,625rem;
+        font-size: 1.625rem;
         line-height: 32px;
         padding: 20px;
     }
 
     .banner img {
-        width: 100%;
+        width: 90%;
     }
 }
 
